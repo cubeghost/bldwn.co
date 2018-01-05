@@ -1,0 +1,154 @@
+[
+  {
+    "id": "perpetual-apology",
+    "type": "work",
+    "url": "http://40.media.tumblr.com/23ef9531d4623273d5d259f665563ce0/tumblr_mua2rlZ1l81qazbamo1_1280.png",
+    "thumbnail": "http://40.media.tumblr.com/23ef9531d4623273d5d259f665563ce0/tumblr_mua2rlZ1l81qazbamo1_500.png",
+    "title": "a perpetual apology for those times that keep happening, 2013",
+    "description": null
+  },
+  {
+    "id": "lady-liberty",
+    "type": "work",
+    "url": "img/work/ladyliberty.gif",
+    "thumbnail": "img/work/ladyliberty.gif",
+    "title": "lady liberty, 2013",
+    "description": null
+  },
+  {
+    "id": "make-a-goose",
+    "type": "work",
+    "url": "https://archive.bldwn.co/make/",
+    "thumbnail": "img/work/makeagoose.png",
+    "title": "make-a-goose, 2010",
+    "description": "[archive.bldwn.co/make](https://archive.bldwn.co/make/)"
+  },
+  {
+    "id": "data-goose-im",
+    "type": "work",
+    "url": "https://bldwn.co/data.goose.im/",
+    "thumbnail": "https://bldwn.co/data.goose.im/ocean/ocean.gif",
+    "title": "various glitch gifs, 2013",
+    "description": "[data.goose.im](https://bldwn.co/data.goose.im/)"
+  },
+  {
+    "id": "chromosphere-theme",
+    "type": "work",
+    "url": "http://www.tumblr.com/theme/38385/",
+    "thumbnail": "http://33.media.tumblr.com/themes/screenshots/1rm42cz/73e2ae49555e7e644b6b82315a5b92e9.png",
+    "title": "chromosphere theme, 2013 - 2014",
+    "description": "[tumblr.com/theme/38385](http://www.tumblr.com/theme/38385/)"
+  },
+  {
+    "id": "gtb",
+    "type": "work",
+    "url": "http://gtbrecs.com/",
+    "thumbnail": "img/work/gtb.png",
+    "title": "gtb records website, 2014",
+    "description": "[gtbrecs.com](http://gtbrecs.com/)"
+  },
+  {
+    "id": "chorus",
+    "type": "work",
+    "url": "https://bldwn.co/chorus",
+    "thumbnail": "img/work/chorus.png",
+    "title": "chorus, 2010-2014",
+    "description": "[bldwn.co/chorus](https://bldwn.co/chorus)"
+  },
+  {
+    "id": "aesthetic",
+    "type": "work",
+    "url": "img/work/aesthetic.png",
+    "thumbnail": "img/work/aesthetic.png",
+    "title": "now that\"s what i call aesthetic, 2014",
+    "description": null
+  },
+  {
+    "id": "circumfluous-2014",
+    "type": "work",
+    "url": "http://bldwn.co/circumfluous/",
+    "thumbnail": "http://bldwn.co/circumfluous/1000001.png",
+    "title": "assorted works inspired by susan kare, 2014",
+    "description": "[bldwn.co/circumfluous](http://bldwn.co/circumfluous/)"
+  },
+  {
+    "id": "secret-base",
+    "type": "work",
+    "url": "img/work/secretbase.png",
+    "thumbnail": "img/work/secretbase.png",
+    "title": "pokemon secret base designer",
+    "description": null
+  },
+  {
+    "id": "predictive",
+    "type": "work",
+    "url": "img/work/predictive.png",
+    "thumbnail": "img/work/predictive.png",
+    "title": "curated predictive text, 2014",
+    "description": null
+  },
+  {
+    "id": "girlscouts-convention",
+    "type": "work",
+    "url": "http://convention.girlscouts.org/kiosk/tiles/connect",
+    "thumbnail": "img/work/connect.png",
+    "title": "kiosk interface for _girl scouts of the usa_, 2014",
+    "description": "[convention.girlscouts.org](http://convention.girlscouts.org/kiosk/tiles/connect)"
+  },
+  {
+    "id": "blacklist",
+    "type": "work",
+    "url": "http://bldwn.co/blacklist/",
+    "thumbnail": "img/work/blacklist.png?2",
+    "title": "blacklist for facebook, 2015",
+    "description": "[chrome web store](https://chrome.google.com/webstore/detail/blacklist-for-facebook/cenmgeenadipbainomfhgkapenbmgiom)"
+  },
+  {
+    "id": "pulsar-theme",
+    "type": "work",
+    "url": "https://www.tumblr.com/theme/39715",
+    "thumbnail": "https://33.media.tumblr.com/themes/screenshots/1rm42cz/4efcd3f8731ea74c0ab2a265e98b3692.png",
+    "title": "pulsar theme, 2015",
+    "description": "[tumblr.com/theme/39715](https://www.tumblr.com/theme/39715)"
+  },
+  {
+    "id": "tag-replacer",
+    "type": "work",
+    "url": "https://tags.circumfluo.us/",
+    "thumbnail": "img/work/tagreplacer.png",
+    "title": "tag replacer, 2013 - current",
+    "description": "[tags.circumfluo.us](https://tags.circumfluo.us/)"
+  },
+  {
+    "id": "deepdream",
+    "type": "work",
+    "url": "https://bldwn.co/deepdream",
+    "thumbnail": "https://bldwn.co/deepdream/crystalmit.jpeg",
+    "title": "google deepdream experiments, 2015",
+    "description": "[bldwn.co/deepdream](https://bldwn.co/deepdream)"
+  },
+  {
+    "id": "holodeck",
+    "type": "work",
+    "url": "img/work/holodeck.png",
+    "thumbnail": "img/work/holodeck.gif",
+    "title": "holodeck: internal gif management for Glitter",
+    "description": null
+  },
+  {
+    "id": "kidpix-talk",
+    "type": "work",
+    "url": "https://slides.com/cubeghost/kidpix",
+    "thumbnail": "img/work/kidpixtalk.png",
+    "title": "use the wacky brush to make a moving picture (a talk about kid pix)",
+    "description": "[slid.es/cubeghost/kidpix](https://slides.com/cubeghost/kidpix)"
+  },
+  {
+    "id": "plants-exe",
+    "type": "work",
+    "url": "https://cubeghost.itch.io/plantsexe",
+    "thumbnail": "img/work/plants.gif",
+    "title": "plants.exe for procjam 2016",
+    "description": "[cubeghost.itch.io/plantsexe](https://cubeghost.itch.io/plantsexe)"
+  }
+]

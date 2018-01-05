@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10vh;
+
+  nav {
+    a:not(:last-child) {
+      margin-right: 1em;
+    }
+  }
+
+  @media (max-width: 580px) {
+    flex-direction: column;
+
+    nav {
+      margin-top: 1em;
+    }
+  }
+}
