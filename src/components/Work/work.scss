@@ -1,0 +1,23 @@
+@import '~styles/variables';
+
+.work {
+  max-width: 400px;
+  background-color: $color-white;
+  margin-bottom: 1em;
+
+  @media (max-width: 500px) {
+    max-width: 100%;
+  }
+
+  &-thumbnail {
+    display: block;
+  }
+
+  &-body {
+    padding: 0.5em;
+  }
+
+  p {
+    margin: 0;
+  }
+}

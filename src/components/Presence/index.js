@@ -18,7 +18,7 @@ firebase.initializeApp({
 
 const MOUSE_DEBOUNCE = 0;
 
-const ONE_MINUTE = 60 * 1000;
+const THIRTY_SECONDS = 30 * 1000;
 const TEN_MINUTES = 10 * 60 * 1000;
 
 class Presence extends Component {
@@ -35,10 +35,12 @@ class Presence extends Component {
     window.addEventListener('mouseenter', debounce(this.handleMouseEvent, MOUSE_DEBOUNCE));
     window.addEventListener('mousemove', debounce(this.handleMouseEvent, MOUSE_DEBOUNCE));
 
-    this.intervalId = setInterval(this.removeIdleUsers, ONE_MINUTE);
+    this.intervalId = setInterval(this.removeIdleUsers, THIRTY_SECONDS);
 
     auth().then(() => {
       setUserId();
+
+      this.removeIdleUsers();
 
       const ref = getUserRef();
       ref.onDisconnect().remove();
@@ -78,13 +80,13 @@ class Presence extends Component {
 
   removeIdleUsers() {
     const { users, removeOtherUser } = this.props;
-    const serverTimestamp = firebase.database.ServerValue.TIMESTAMP;
+    const now = Date.now();
 
     if (users) {
       const arrayOfUsers = Object.keys(users).map(k => (users[k]))
 
       arrayOfUsers.forEach(user => {
-        if (!user.updatedAt || (serverTimestamp - user.updatedAt) > TEN_MINUTES) {
+        if (!user.updatedAt || (now - user.updatedAt) > TEN_MINUTES) {
           removeOtherUser(user.id);
         }
       });

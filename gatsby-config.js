@@ -14,6 +14,7 @@ module.exports = {
     },
     `gatsby-transformer-json`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-resolve-src`,
     {
       resolve: `gatsby-plugin-postcss-sass`,
       options: {

@@ -1,9 +1,10 @@
 import React from 'react';
 import Link from 'gatsby-link';
 
-import Work from '../components/Work';
+import Work from 'components/Work';
+import Footer from 'components/Footer';
 
-import { extractQuery } from '../utils';
+import { extractQuery } from 'utils';
 
 /*
 ░█  ░█  ░███  ░████  ░█  ░█
@@ -33,6 +34,7 @@ const WorkPage = (props) => {
           />
         ))}
       </div>
+      <Footer />
     </div>
   );
 };

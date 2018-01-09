@@ -1,13 +1,10 @@
 @import 'reset';
-
-$color-highlight: #a580c5;
-$color-text: #444444;
-$color-white: #ffffff;
+@import 'variables';
 
 body {
   font-family: 'Roboto Mono', monospace;
   color: $color-text;
-  background-image: url(/img/1.gif);
+  background-image: url(/img/1_a580c5.gif);
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -37,7 +34,7 @@ a {
 }
 
 .container {
-  padding: 3em;
+  padding: 2em;
 }
 
 pre {
@@ -79,13 +76,16 @@ pre {
 
 .page-nfo {
   background-color: $color-white;
-}
-
-.work {
+  display: inline-block;
   max-width: 60vw;
-  background-color: $color-white;
 
-  @media (max-width: 580px) {
+  @media (max-width: 700px) {
     max-width: 100%;
   }
+
+}
+
+.page {
+  padding: 0 1em;
+
 }

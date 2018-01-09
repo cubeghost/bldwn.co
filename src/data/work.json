@@ -10,8 +10,8 @@
   {
     "id": "lady-liberty",
     "type": "work",
-    "url": "img/work/ladyliberty.gif",
-    "thumbnail": "img/work/ladyliberty.gif",
+    "url": "/img/work/ladyliberty.gif",
+    "thumbnail": "/img/work/ladyliberty.gif",
     "title": "lady liberty, 2013",
     "description": null
   },
@@ -19,7 +19,7 @@
     "id": "make-a-goose",
     "type": "work",
     "url": "https://archive.bldwn.co/make/",
-    "thumbnail": "img/work/makeagoose.png",
+    "thumbnail": "/img/work/makeagoose.png",
     "title": "make-a-goose, 2010",
     "description": "[archive.bldwn.co/make](https://archive.bldwn.co/make/)"
   },
@@ -43,7 +43,7 @@
     "id": "gtb",
     "type": "work",
     "url": "http://gtbrecs.com/",
-    "thumbnail": "img/work/gtb.png",
+    "thumbnail": "/img/work/gtb.png",
     "title": "gtb records website, 2014",
     "description": "[gtbrecs.com](http://gtbrecs.com/)"
   },
@@ -51,15 +51,15 @@
     "id": "chorus",
     "type": "work",
     "url": "https://bldwn.co/chorus",
-    "thumbnail": "img/work/chorus.png",
+    "thumbnail": "/img/work/chorus.png",
     "title": "chorus, 2010-2014",
     "description": "[bldwn.co/chorus](https://bldwn.co/chorus)"
   },
   {
     "id": "aesthetic",
     "type": "work",
-    "url": "img/work/aesthetic.png",
-    "thumbnail": "img/work/aesthetic.png",
+    "url": "/img/work/aesthetic.png",
+    "thumbnail": "/img/work/aesthetic.png",
     "title": "now that\"s what i call aesthetic, 2014",
     "description": null
   },
@@ -74,16 +74,16 @@
   {
     "id": "secret-base",
     "type": "work",
-    "url": "img/work/secretbase.png",
-    "thumbnail": "img/work/secretbase.png",
+    "url": "/img/work/secretbase.png",
+    "thumbnail": "/img/work/secretbase.png",
     "title": "pokemon secret base designer",
     "description": null
   },
   {
     "id": "predictive",
     "type": "work",
-    "url": "img/work/predictive.png",
-    "thumbnail": "img/work/predictive.png",
+    "url": "/img/work/predictive.png",
+    "thumbnail": "/img/work/predictive.png",
     "title": "curated predictive text, 2014",
     "description": null
   },
@@ -91,7 +91,7 @@
     "id": "girlscouts-convention",
     "type": "work",
     "url": "http://convention.girlscouts.org/kiosk/tiles/connect",
-    "thumbnail": "img/work/connect.png",
+    "thumbnail": "/img/work/connect.png",
     "title": "kiosk interface for _girl scouts of the usa_, 2014",
     "description": "[convention.girlscouts.org](http://convention.girlscouts.org/kiosk/tiles/connect)"
   },
@@ -99,7 +99,7 @@
     "id": "blacklist",
     "type": "work",
     "url": "http://bldwn.co/blacklist/",
-    "thumbnail": "img/work/blacklist.png?2",
+    "thumbnail": "/img/work/blacklist.png?2",
     "title": "blacklist for facebook, 2015",
     "description": "[chrome web store](https://chrome.google.com/webstore/detail/blacklist-for-facebook/cenmgeenadipbainomfhgkapenbmgiom)"
   },
@@ -115,7 +115,7 @@
     "id": "tag-replacer",
     "type": "work",
     "url": "https://tags.circumfluo.us/",
-    "thumbnail": "img/work/tagreplacer.png",
+    "thumbnail": "/img/work/tagreplacer.png",
     "title": "tag replacer, 2013 - current",
     "description": "[tags.circumfluo.us](https://tags.circumfluo.us/)"
   },
@@ -130,8 +130,8 @@
   {
     "id": "holodeck",
     "type": "work",
-    "url": "img/work/holodeck.png",
-    "thumbnail": "img/work/holodeck.gif",
+    "url": "/img/work/holodeck.png",
+    "thumbnail": "/img/work/holodeck.gif",
     "title": "holodeck: internal gif management for Glitter",
     "description": null
   },
@@ -139,7 +139,7 @@
     "id": "kidpix-talk",
     "type": "work",
     "url": "https://slides.com/cubeghost/kidpix",
-    "thumbnail": "img/work/kidpixtalk.png",
+    "thumbnail": "/img/work/kidpixtalk.png",
     "title": "use the wacky brush to make a moving picture (a talk about kid pix)",
     "description": "[slid.es/cubeghost/kidpix](https://slides.com/cubeghost/kidpix)"
   },
@@ -147,7 +147,7 @@
     "id": "plants-exe",
     "type": "work",
     "url": "https://cubeghost.itch.io/plantsexe",
-    "thumbnail": "img/work/plants.gif",
+    "thumbnail": "/img/work/plants.gif",
     "title": "plants.exe for procjam 2016",
     "description": "[cubeghost.itch.io/plantsexe](https://cubeghost.itch.io/plantsexe)"
   }

@@ -1,6 +1,8 @@
 import React from 'react';
 import Markdown from 'react-markdown';
 
+import './work.scss';
+
 const Work = ({
   id,
   type,
@@ -15,8 +17,10 @@ const Work = ({
   return (<div className="work">
     {thumbnail && <img className="work-thumbnail" src={thumbnail} />}
 
-    {title && <Markdown className="work-title" source={title} />}
-    {description && <Markdown className="work-description" source={description} />}
+    <div className="work-body">
+      {title && <Markdown className="work-title" source={title} />}
+      {description && <Markdown className="work-description" source={description} />}
+    </div>
   </div>);
 };
 

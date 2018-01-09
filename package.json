@@ -13,6 +13,7 @@
     "gatsby-plugin-google-fonts": "0.0.3",
     "gatsby-plugin-postcss-sass": "^1.0.15",
     "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-resolve-src": "^1.0.0",
     "gatsby-source-filesystem": "^1.5.11",
     "gatsby-transformer-json": "^1.0.14",
     "moment": "^2.20.1",
@@ -26,7 +27,8 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "aws s3 sync ./public s3://0.bldwn.co --exclude \".DS_Store\""
   },
   "devDependencies": {
     "prettier": "^1.9.2"
